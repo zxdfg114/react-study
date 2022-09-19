@@ -49,7 +49,7 @@ function App() {
                   setLike(like2);
                 }}
               >
-                🆗
+                👍
               </span>{" "}
               {like[i]}
             </h5>
